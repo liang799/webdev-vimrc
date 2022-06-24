@@ -31,6 +31,7 @@ Plugin 'itchyny/lightline.vim'
 Plugin 'othree/yajs.vim'
 Plugin 'chrisbra/matchit'
 Plugin 'kana/vim-textobj-entire'
+Plugin 'kana/vim-textobj-user'
 Plugin 'maxmellon/vim-jsx-pretty'
 Plugin 'ternjs/tern_for_vim', { 'do': 'npm install' }
 Plugin 'maralla/completor.vim', { 'do': 'make js' }
